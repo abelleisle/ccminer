@@ -2,7 +2,7 @@
 
 This is a stub mirror. The full source code for this commit is at:
 
-https://git.bitcicle.com/andy/ccminer/src/commit/0fceca6ffefc9c621c1ef1cd9b58feb3c2f52087
+https://git.bitcicle.com/andy/ccminer/src/commit/48515ad707afa1cb617ede281306a0b5be600161
 
 To browse or clone the full repository, visit:
 
